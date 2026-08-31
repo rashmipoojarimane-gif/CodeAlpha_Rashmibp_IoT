@@ -68,7 +68,6 @@ Circuit Simulation
 
 What I Learned
 During this internship, I gained hands-on experience in:
-
 Understanding the fundamentals of IoT.
 Exploring real-life applications of IoT.
 Programming Arduino UNO.
@@ -79,9 +78,9 @@ Developing basic embedded systems.
 Applying IoT concepts to real-world problems.
 
 Internship Information
-Details	Information
-Organization	CodeAlpha
-Domain	Internet of Things (IoT)
-Internship	IoT Internship
-Author	Rashmi BP
+
+Organization:CodeAlpha
+Domai:Internet of Things (IoT)
+Internship:IoT Internship
+Author:Rashmi BP
 
